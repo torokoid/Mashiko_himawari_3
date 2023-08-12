@@ -68,7 +68,7 @@ body::before {
 	
 <p align="left"> <img src="QR_mashiko_3.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <h3><span class="white">JR宇都宮駅から29kmほど南東に行ったところにある、益子ひまわり祭り会場です。</span></h3>
-<a href="mashiko_himawari_2/20210820_081.png" data-lightbox="abc"><img src="mashiko_himawari_2/20210820_081.png" alt="サンプル画像" width="900" /></a>
+<a href="20230812_000.png" data-lightbox="abc"><img src="20230812_000.png" alt="サンプル画像" width="900" /></a>
 <a href="20230812_001.JPG" data-lightbox="abc"><img src="20230812_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230812_002.JPG" data-lightbox="abc"><img src="20230812_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230812_003.JPG" data-lightbox="abc"><img src="20230812_003.JPG" alt="サンプル画像" width="900" /></a>
