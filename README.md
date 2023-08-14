@@ -129,3 +129,6 @@ body::before {
  <footer><span class="white">
  Copyright 2023/08/12 S.Hada
 	 </span></footer>
+
+</body>
+</html>
