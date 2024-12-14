@@ -101,7 +101,7 @@ body::before {
 
 
 
-<h1><span class="yellow">いいねボタン作動不具合が出たので一旦廃止します。<br>意見水上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h1>
+<h1><span class="yellow">いいねボタンに作動不具合が出たので一旦廃止します。<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h1>
 
 <h2><span class="yellow"><a href="mailto:torokoid@gmail.com?subject=Mashiko_himawari_3から">HPに関するご意見などはこちらをクリック</a></span></h2>
 
