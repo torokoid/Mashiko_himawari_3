@@ -101,7 +101,8 @@ body::before {
 
 
 
-<h2><span class="yellow"><a href="https://www.facebook.com/share/1AADpLb18q/?mibextid=wwXIfr">ラオスからタイに戻りましたHPの更新は逐次実施中<br>この文字クリックでFacebookのラオス記事に飛びます</a></span></h2>
+<!--
+<h2><span class="yellow"><a href="https://www.facebook.com/share/1AADpLb18q/?mibextid=wwXIfr">ラオスからタイに戻りましたHPの更新は逐次実施中<br>この文字クリックでFacebookのラオス記事に飛びます</a></span></h2>-->
 
 <h3><span class="yellow">Edgeなど一部のブラウザで画像が表示されない不具合を修正(2024_12_22)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h3>
 
