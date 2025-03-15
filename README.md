@@ -107,7 +107,7 @@ body::before {
 
 
 
-<h2><span class="yellow"><a href="https://torokoid.github.io/20241120-20250311_Thailand/">タイ旅行のリンクは別ページにまとめました(2025_03_15)</a></span></h2>
+<h2><span class="yellow"><a href="https://torokoid.github.io/20241120-20250311_Thailand/" target="_blank">タイ旅行のリンクは別ページにまとめました(2025_03_15)</a></span></h2>
 
 <h3><span class="yellow">Edgeなど一部のブラウザで画像が表示されない不具合を修正(2024_12_22)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h3>
 
