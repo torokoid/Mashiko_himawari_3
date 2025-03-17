@@ -107,7 +107,8 @@ body::before {
 
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath">
-><a href="https://torokoid.github.io/20250312_16_tochigi/" target="_blank">2025年03月16日 、帰国後6日間の記録</a></p></div>
+><a href="https://torokoid.github.io/20250312_16_tochigi/" target="_blank">2025年03月16日 、帰国後6日間の記録</a><br>><a href="https://torokoid.github.io/20250316_No10MGB/" target="_blank">2025年03月16日深夜 、帰国後早々メタバースのイベントに参加</a></p></div>
+
 
 
 <h3><span class="yellow">Edgeなど一部のブラウザで画像が表示されない不具合を修正(2024_12_22)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h3>
