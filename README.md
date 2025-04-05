@@ -111,7 +111,7 @@ body::before {
 
 
 
-<h3><span class="yellow">Edgeなど一部のブラウザで画像が表示されない不具合を修正(2024_12_22)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h3>
+<h2><span class="yellow">画像処理用PCがキーボードトラブルで入院、HP更新は中段します。再開約1週間。(2025_Apr_5)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h2>
 
 <h2><span class="yellow"><a href="mailto:torokoid@gmail.com?subject=Mashiko_himawari_3から">HPに関するご意見などはこちらをクリック</a></span></h2>
 
