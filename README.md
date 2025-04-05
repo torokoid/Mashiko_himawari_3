@@ -111,7 +111,7 @@ body::before {
 
 
 
-<h2><span class="yellow">画像処理用PCがキーボードトラブルで入院、HP更新は中段します。再開約1週間。(2025_Apr_5)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h2>
+<h2><span class="yellow">画像処理用PCがキーボードトラブルで入院しました。HP更新は中段します。再開は約1週間後の予定です。(2025_Apr_5)<br>意見吸い上げリンク（下記）は正常作動中ですので、お気軽にどうぞ！</span></h2>
 
 <h2><span class="yellow"><a href="mailto:torokoid@gmail.com?subject=Mashiko_himawari_3から">HPに関するご意見などはこちらをクリック</a></span></h2>
 
