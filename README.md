@@ -102,9 +102,9 @@ body::before {
 
 
 
-<h2><span class="yellow"><a href="https://torokoid.github.io/20241120-20250311_Thailand/" target="_blank">2024年11月20日~2025年3月11日、タイ旅行のリンクは別ページにまとめました(2025_03_15)</a></span></h2>
+<h2><span class="yellow"><a href="https://torokoid.github.io/20241120-20250311_Thailand/" target="_blank">2024年11月20日~2025年3月11日、タイ旅行のリンクは別ページにまとめました。文字のクリックで一覧に飛びます(2025_03_15)</a></span></h2>
 
-<h2><span class="yellow"><a href="https://torokoid.github.io/20250316_20250728_Tochigi/" target="_blank">日本の記録は別ページにまとめました(2025_08_03)</a></span></h2>
+<h2><span class="yellow"><a href="https://torokoid.github.io/20250316_20250728_Tochigi/" target="_blank">2025年3月16日~2025年7月28日、日本滞在中の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2025_08_03)</a></span></h2>
 
 
 
