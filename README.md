@@ -104,7 +104,7 @@ body::before {
 
 <h2><span class="yellow"><a href="https://torokoid.github.io/20250316_20250728_Tochigi/" target="_blank">2025年3月16日~2025年7月28日、日本滞在中の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2025_08_03)</a></span></h2>
 
-<h2><span class="yellow"><a href="https://torokoid.github.io/20250729_20260303_Thailand/" target="_blank">2025年7月29日~2026年3月3日、日本滞在中の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2025_08_03)</a></span></h2>
+<h2><span class="yellow"><a href="https://torokoid.github.io/20250729_20260303_Thailand/" target="_blank">2025年7月29日~2026年3月3日、タイ滞在中の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2025_08_03)</a></span></h2>
 
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath">
