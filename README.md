@@ -106,7 +106,7 @@ body::before {
 
 <h2><span class="yellow"><a href="https://torokoid.github.io/20250729_20260303_Thailand/" target="_blank">2025年7月29日~2026年3月3日、タイ滞在中の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2026_03_23)</a></span></h2>
 
-<h2><span class="yellow"><a href="https://torokoid.github.io/20260308_202600821_utsunomiya/" target="_blank">2026年3月8日~2026年8月21日、宇都宮周辺の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2026_08_22)</a></span></h2>
+<h2><span class="yellow"><a href="https://torokoid.github.io/20260308_20260821_utsunomiya/" target="_blank">2026年3月8日~2026年8月21日、宇都宮周辺の記録は別ページにまとめました。文字のクリックで一覧に飛びます(2026_08_22)</a></span></h2>
 
 
 
